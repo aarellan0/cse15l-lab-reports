@@ -1,18 +1,22 @@
-# <div align = "center">CSE 15L Lab Report #1
-# <div align = "center">Aaron Arellano
-## <div align = "center">Remote Access
-<div align = "center">What is remote access? In general, remote access is the ability to connect to a specific computer network (either for work or for school) from any location and from any computer.In this lab, we will access the cse network through our cse 15L course accounts.                            
-  
+# Lab Report #1
+## Aaron Arellano
+### Remote Access
 
+In this report, we will be discussing the topic of **remote access**, and using it to connect to our ucsd student accounts and the cse server.
 
-  
-  
-<div align = "center">1.Installing VS code
-<div align = "center">The first step of the process is to download and install Visual Studio Code, which is the IDE that will be used to access the cse network through the command prompt
-<div align = "center">2. step two
-<div align = "center">3. step three
-  
+But before we begin, we need to ask ourselves, what is remote access?
+In a sense, remote access is the ability to access a specific computer network from anywhere in the world and from any device!
+Using this, we can manage files and data for whatever network or computer you're connected to. This will be demonstrated by remotely accessing the UCSD CSE network through our course specific accounts. 
 
+# Step #1
+However, before we start with the process of remote access, we will need to download an IDE called **Visual Studio Code**
+We will be using the terminal in VS code to be able to access the network.
+
+- Head to the link below to download VS Code for your respective system (Windows, MacOS)
+- [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+- Follow the installation instructions on the downloaded application until you get to the following page. 
+
+ 
 
 
 
