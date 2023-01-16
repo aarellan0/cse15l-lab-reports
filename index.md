@@ -1,6 +1,6 @@
-# Lab Report #1
+# Lab Report #1 - Remote Access
 ## Aaron Arellano
-### Remote Access
+### January 16, 2023
 
 In this report, we will be discussing the topic of **remote access**, and using it to connect to our ucsd student accounts and the cse server.
 
@@ -86,6 +86,8 @@ One last command that we can try out is the **ls** command. ls is short for list
 ![Image](ls -a example.png)
 
 What prints to the terminal are all of the different directories and files found within our current cs15lw23 working directory. Using this command, we can look for any specific files or information that is stored within the cse directory!
+
+After finishing with command testing, make sure to use the **exit** command to disconnect from the cse computer!
 
 There are plenty of other terminal commands that we can use, all of which make the navigation through computer systems and files easier. Ultimately, they serve to make software development (or just coding in general!) more efficient, since more time can be spent on actual development than on searching for information on a network.
 In the end, remote access helps us to connect to a specific network or device from anywhere in the world, allowing us to work effectively from anywhere!
