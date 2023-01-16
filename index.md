@@ -63,15 +63,30 @@ If your terminal presents the following information, than Congratulations! You'v
 Now that you've successfully conncted to a compouter in the cse basement, we can start trying out certain **Terminal Commands!**
 In essence, terminal commands are used to navigate a computers files and directories and make changes to them!
 
+You can type many commands into the same VS Code terminal connected to the CSE network, and they all do different things. Some commands and their outputs can be seen in the following image. 
 
+![Image](terminalCommands.png)
 
+Above, we can see many commands, each outputting different things.Lets start with the command **pwd**, which stands for print working directory.
+The command prints out the complete path in your current directory from the root directory (or the starting point of the system). 
 
+![Image](pwdTest.png)
 
- 
+As you can see in the example, our current working directory begins at the root home directory, and then moves through the linux system to arrive at our course specific accounts for cs15lw23 (CSE 15L class directory). The path is printed to the terminal with the **pwd** command, which helps us to navigate our files and directories.
 
+Another terminal command we can try is the **cat** command. Short for concatenate, this command allows us to create new files in a directory and also allows us to read the content of certain files and then prints their data as output into the terminal. This command requires you type the directory for a specific file on the system after you type **cat**. If you want to know the directory of said file, you can use the pwd command we mentioned earlier!
+An example of this command...
 
+![Image](cat example.png)
 
- 
+In this example, we were looking for the file "hello.txt". However, this file does not exist in this current directory, which means that there is no data to print out to the terminal. The terminal actually lets us know by stating that there is *No Such File or Directory*.
 
+One last command that we can try out is the **ls** command. ls is short for list, and it functions by listing all of the files and directories within the current working directory. For example, when we use the **ls** command in our cse 15l directory, we get the following information,
 
+![Image](ls -a example.png)
+
+What prints to the terminal are all of the different directories and files found within our current cs15lw23 working directory. Using this command, we can look for any specific files or information that is stored within the cse directory!
+
+There are plenty of other terminal commands that we can use, all of which make the navigation through computer systems and files easier. Ultimately, they serve to make software development (or just coding in general!) more efficient, since more time can be spent on actual development than on searching for information on a network.
+In the end, remote access helps us to connect to a specific network or device from anywhere in the world, allowing us to work effectively from anywhere!
 
