@@ -45,9 +45,9 @@ Now that we are on a gitbash (or regular) terminal in VS Code, we can begin the 
 - After you log in using your school username and password, go the section titled **Additional Accounts**, which should contain your username for the CSE 15L course. Keep note of this username.
 
 1. Open the VS Code Terminal (Bash or other terminal depending on system), and type out the following,
-
+```
 **ssh cse15Lwi23(course username letters)@ieng6.ucsd.edu**
-
+```
 If you noticed, the first part of the email consists of the CSE 15L course username, type out your specific username you found earlier.
 
 2. After you have typed out the message in the terminal and pressed enter, you should receive a message that says that the authenticity of the host can't be established, and asks if you would like to continue connecting. Type **yes** and then press enter. This message likely appears because it is your first time connecting to the network.
